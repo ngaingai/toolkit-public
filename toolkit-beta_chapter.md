@@ -190,10 +190,11 @@ Note: It is _highly_ recommended that you also put _On the same wavelength_ and 
 ### Culture Context
 
 How many years do Americans work at one company (average):
-A. 0-2
-B. 3-5
-C. 6-10
-D. 10+
+
+- A. 0-2
+- B. 3-5
+- C. 6-10
+- D. 10+
 
 The answer is B, but why does this matter?
 It matters because, as you probably know, the answer is D in Japan.
@@ -235,7 +236,7 @@ Q: "So can you accept our offer?"
 A: "Thank you for the offer, there is a possibility. It is difficult, but I will contact you after I check with my boss and my team."
 B: "No."
 
-Time is money.
+_**Time is money.**_
 
 ---
 
