@@ -256,6 +256,7 @@ I would really appreciate it if you could give me some feedback [here](https://f
 ## Thank you!
 
 Thanks for inspiring me to write this, thanks for taking the time to read it, and thanks for coming on this journey with me!
+
 -- Alex
 
 Twitter: [@alxdesu](https://www.twitter.com/alxdesu)
