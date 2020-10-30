@@ -229,12 +229,13 @@ Now that we know _**time is money**_, let's use it to plan a negotiation with an
 
 > _All coming soon._
 
-**QUIZ TIME**
+**QUIZ TIME:**
 Which is a better response, A or B?
 
 Q: "So can you accept our offer?"
-A: "Thank you for the offer, there is a possibility. It is difficult, but I will contact you after I check with my boss and my team."
-B: "No."
+
+- A: "Thank you for the offer, there is a possibility. It is difficult, but I will contact you after I check with my boss and my team."
+- B: "No."
 
 _**Time is money.**_
 
@@ -256,4 +257,5 @@ I would really appreciate it if you could give me some feedback [here](https://f
 
 Thanks for inspiring me to write this, thanks for taking the time to read it, and thanks for coming on this journey with me!
 -- Alex
+
 Twitter: [@alxdesu](https://www.twitter.com/alxdesu)
