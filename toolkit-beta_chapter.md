@@ -71,7 +71,9 @@ _A mental model is just a specific way to think about things. They're like frame
 > Let’s try it in these situations:
 >
 > > **I want this luxury car.** _80-year-old Me_: "I spent all my savings on that car and only drove it 3 times a month because gas was so expensive." => DON'T BUY.
+> >
 > > **Should I change my job?** _80-year-old Me_: "I worked in 1 company until retirement. I was bored and hated my department." => CONTACT A RECRUITER.
+> >
 > > **Do I order soda?** When I’m 80 I’m not going to remember this meal, so it doesn’t matter. _The real question is: why did I agree to have dinner with these people?_
 >
 > Jeff Bezos calls this mental model _**Regret Minimization**_ and he used it to quit his Wall Street job and start Amazon.
@@ -120,7 +122,7 @@ This sounds difficult but we do it by gradually building **new habits**.
 
 # Section 3: Habits
 
-First, let’s summarize the key points for _Time is Money_:
+First, let’s summarize the key points for _**Time is Money**_:
 
 > - Respect people by respecting their time
 > - Decisiveness and efficiency
@@ -166,7 +168,7 @@ Here are some examples on how to start using _**Time is Money**_ in your daily l
 >   - Don't work overtime
 >   - Reject social events with coworkers
 
-Daily progress is slow, and it will be difficult to see clear results, but you're moving in right direction. You'll probably want to stop after a week or two--your weak points don't want to die yet--but keep going.
+Daily progress is slow, and it will be difficult to see clear results, but you're moving in right direction. You'll probably want to stop after a week or two—your weak points don't want to die yet—but keep going.
 
 Mastery is achieved with consistency, not speed.
 
