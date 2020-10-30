@@ -188,7 +188,7 @@ For those who like to get deep into the details, this section is for you. It cov
 ## 4a) Time is Money: Negotiations
 
 Negotiations, especially between two totally different cultures like Japan and America, is a complex topic that needs to be looked at from a variety of angles. This section looks at it through _Time is money_ and we'll be re-visiting this topic with other mental models as well. My hope is that it by looking at negotiation with different tools, you'll begin to develop a wider understanding of this subject, and many others.
-Note: It is _highly_ recommended that you also put _On the same wavelength_ and _See the big picture_ in your negotiation toolkit.
+Note: It is _highly_ recommended that you also put _**On the same wavelength**_ and _**See the big picture**_ in your negotiation toolkit.
 
 ### Culture Context
 
