@@ -149,8 +149,11 @@ The rules are easy:
 
 1. Write the mental model (tool) you want to develop
 2. Check today's box if you used the tool to:
+
    a. **Build** a habit
+
    b. **Break** a bad habit
+
 3. Repeat tomorrow
 
 Here are some examples on how to start using _**Time is Money**_ in your daily life and work. This is just a basic list to spark your imagination, I encourage you to make your own.
